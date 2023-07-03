@@ -1,0 +1,92 @@
+* {
+  font-family: Roboto;
+}
+
+.cowinDashboardBgContainer {
+  width: 100%;
+  min-height: 100vh;
+  background-color: #161625;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  padding: 15px;
+}
+
+.logoContainer {
+  height: 30px;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  align-self: flex-start;
+}
+
+.websiteLogoImage {
+  height: 90%;
+}
+
+.mainHeading {
+  color: #2cc6c6;
+  font-size: 18px;
+  padding-left: 10px;
+}
+
+.mainHeading2 {
+  color: #ffffff;
+  font-size: 24px;
+  padding-left: 10px;
+  align-self: flex-start;
+}
+
+.failureViewContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.failureImage {
+  width: 70%;
+  max-width: 400px;
+}
+
+.failureHeading {
+  color: #ffffff;
+  font-size: 20px;
+}
+
+.cardContainer {
+  width: 90%;
+  max-width: 900px;
+  background-color: #1c1c2b;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px;
+}
+
+.vaccinationHeading {
+  align-self: flex-start;
+  font-size: 16px;
+  color: #ffffff;
+}
+
+.dataContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.overAllContainer {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
